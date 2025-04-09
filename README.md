@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m currently working at **Thoughtworks** as an **Infrastructure Consultant**. <br>- 🌱 **What I’m currently learning:**  <br>  I’m actively exploring **AWS**, **Python**, **Terraform**, **Golang**, **Azure**, **Kubernetes**, **TypeScript**, and **Cyber Security** (with a focus on **Red Team tools**). Staying at the forefront of technology and continuously expanding my skill set is a passion of mine.<br>- 🤝 **What I want to collaborate on:**  <br>  I’m eager to collaborate on **automation tools for Cyber Security**, particularly **Red Team projects**. If you're working on something innovative in this space, let’s connect!  <br><br>
+Hi there! I’m currently working at **Thoughtworks** as an **DevOps Engineer**. <br>- 🌱 **What I’m currently learning:**  <br>  I’m actively exploring **AWS**, **Python**, **Terraform**, **Golang**, **Azure**, **Kubernetes**, **TypeScript**, and **Cyber Security** (with a focus on **Red Team tools**). Staying at the forefront of technology and continuously expanding my skill set is a passion of mine.<br>- 🤝 **What I want to collaborate on:**  <br>  I’m eager to collaborate on **automation tools for Cyber Security**, particularly **Red Team projects**. If you're working on something innovative in this space, let’s connect!  <br><br>
 
 
 ## 🌐 Socials:
